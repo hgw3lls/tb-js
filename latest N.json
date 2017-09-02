@@ -1,0 +1,57 @@
+[
+
+		{
+		"type": "region",
+		"lat": 42.34398047870971,
+		"lng": -71.10525637865067,
+		"label": "connector by main blind",
+		"audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_frogs_230.mp3",
+		"bounds": [{"lat":42.87483190700575,"lng":-78.88548374176025},{"lat":42.874658930882894,"lng":-78.88526916503906},{"lat":42.8748161819237,"lng":-78.88495802879333},{"lat":42.875036332707666,"lng":-78.88517260551453},{"lat":42.87490660109073,"lng":-78.88547837734222}],
+		"volume": "1",
+		"fadeintime": 1000,
+		"fadeouttime": 1000,
+		"probability": 100
+
+	},
+
+{"type": "point", "lat": 42.87567, "lng": -78.88449, "label": "Midway to woodpecker", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_dawn_chorus_train_10_3min.mp3","maxdistance": "0.02","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.875782, "lng": -78.884942, "label": "Path Bend Toward E_Boardwalk (woodpecker)", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/SS/SS_obsessed.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+
+
+
+{"type": "point", "lat": 42.87566, "lng": -78.88392, "label": "Big_Fork", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/MW/06_MW_studyCDF_contaminants.mp3","maxdistance": "0.02","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},												
+
+{"type": "point", "lat": 42.87517, "lng": -78.88328, "label": "Seawall History", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/MV/02_MV_seawallHistory.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},										
+
+{"type": "point", "lat": 42.87486, "lng": -78.88309, "label": "Path to Adrle Trail sign", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/cello_wide-vibrato_276.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+
+{"type": "point", "lat": 42.875679, "lng": -78.887568, "label": "E_Boardwalk Endpoint", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/Portland_Bill_F-Type_Diaphone_1993.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},										
+
+
+{"type": "point", "lat": 42.874678, "lng": -78.885532, "label": "E_Boardwalk Main Blind", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/JB/JB-3_mainBlind-aural.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+
+
+{"type": "point", "lat": 42.8758, "lng": -78.88705, "label": "E_Boardwalk Far Overlook2", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_geeseOverhead_23.mp3","maxdistance": "0.026","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},													
+
+
+
+{"type": "point", "lat": 42.87601, "lng": -78.88661, "label": "E_Boardwalk Far Overlook1", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/JB/06_JB_fledglingSwallows.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+{"type": "point", "lat": 42.87572, "lng": -78.88538, "label": "Midway on path to middle E_boardwalk entrance", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/spirit_ride_w-birds_machines.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},												
+{"type": "point", "lat": 42.87601, "lng": -78.8852, "label": "Fork to middle E_boardwalk entrance", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_cicadas_good_254.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.87617, "lng": -78.88626, "label": "Far entrance main drag", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/JB/JB-8_nestingSwallows.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.87527, "lng": -78.88572, "label": "First Overlook", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/cello-106-mix.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.87504, "lng": -78.88552, "label": "Joint between main blind and first overlook", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_trafficdrone_129.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.87629, "lng": -78.88589, "label": "Far entrance to E_Boardwalk", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/concert-shout_195.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.8755, "lng": -78.88346, "label": "Aderle Trail Sign", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_beach_waves-CU.mp3","maxdistance": "0.02","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.875573, "lng": -78.885726, "label": "T-intersection E_boardwalk main entrance", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_thunder_variety_262.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+
+{"type": "point", "lat": 42.87537, "lng": -78.88411, "label": "Meadow Center", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/SB/14_SB_studyClimateBigMess.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},												
+{"type": "point", "lat": 42.87517, "lng": -78.88444, "label": "AMB Meadow Center", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_crickets-hipass_136.mp3","maxdistance": "0.018","volume": 0,  "fadeintime": 1000, "fadeouttime": 1000, "probability": 100},												
+{"type": "point", "lat": 42.875828, "lng": -78.886082, "label": "E_Boardwalk_nesting", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/LS/20_LS_egretThankyou.mp3","maxdistance": "0.022","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+{"type": "point", "lat": 42.87626, "lng": -78.88545, "label": "Path to E_Boardwalk Far Entrance", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/AMB/amb_helicopterOverhead_32.mp3","maxdistance": "0.02","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+{"type": "point", "lat": 42.8749901, "lng": -78.8848319, "label": "Path to E_Boardwalk First Junction", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/LS/07_LS_beginToSeeLake.mp3","maxdistance": "0.02","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},													
+
+{"type": "point", "lat": 42.8746, "lng": -78.88284, "label": "Vernal Pool", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/JB/39_JB_vernalPool.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100},												
+{"type": "point", "lat": 42.87447, "lng": -78.88314, "label": "Vernal Pool-Offtrail", "audio": "https://www.walking-productions.com/weathering/assets/audio/times/north/PF/16_PF_vernalPool.mp3","maxdistance": "0.015","volume": 0,  "fadeintime": 250, "fadeouttime": 500, "probability": 100}												
+
+]
