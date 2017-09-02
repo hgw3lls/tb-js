@@ -104,7 +104,7 @@ var GPS_MIN_ACCURACY = 50;
 
 var NUM_TO_GET_FIX = 10;
 			
-var FENS_BOUNDS = [{"lat":42.87536655741106,"lng":-78.89009714126587},{"lat":42.87745793949708,"lng":-78.88473272323608},{"lat":42.87684468442569,"lng":-78.88305902481079},{"lat":42.87297631966449,"lng":-78.88009786605835},{"lat":42.87036582268171,"lng":-78.88574123382568}];
+var FENS_BOUNDS = [{"lat":42.899339,"lng":-78.883134},{"lat":42.896345,"lng":-78.883134},{"lat":42.897274,"lng":-78.872997},{"lat":42.905009,"lng":-78.871143},{"lat":42.904269,"lng":-78.884792}];
 
 				  
 var MAX_OUTOFBOUNDS_READINGS = NUM_TO_GET_FIX + 5;
@@ -148,10 +148,10 @@ var lastCheckLoadTime = 0;
 // var lngCenter = -71.09299600124359;
 		
 // These are the center of the map
-//var latCenter = 42.900704;
-//var lngCenter = -78.878113;
-var latCenter = 42.87377;
-var lngCenter = -78.8871585;
+var latCenter = 42.900704;
+var lngCenter = -78.878113;
+//var latCenter = 42.87377;
+//var lngCenter = -78.8871585;
 
 var diffLat = 0;
 var diffLng = 0;
